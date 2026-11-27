@@ -1,0 +1,17 @@
+# 本地知识库，不进仓库
+知识库/
+
+# 本地环境与构建产物
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.idea/
+*.iml
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+local.properties
